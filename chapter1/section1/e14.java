@@ -1,4 +1,6 @@
-public class e1114 {
+package section1;
+
+public class e14 {
     public static void main(String[] args) {
         for (int i = 0; i < 32; i++) {
             System.out.println("lg(" + i + ") = " + lg(i));

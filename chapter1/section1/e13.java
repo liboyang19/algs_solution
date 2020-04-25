@@ -1,4 +1,6 @@
-public class e1113 {
+package section1;
+
+public class e13 {
     public static void main(String[] args) {
         int[][] arr = new int[3][5];
         int sum = 1;

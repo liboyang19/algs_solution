@@ -1,4 +1,6 @@
-public class e115 {
+package section1;
+
+public class e5 {
     public static void main(String[] args) {
         isStrictlyBetween(0.82,0.122);
     }

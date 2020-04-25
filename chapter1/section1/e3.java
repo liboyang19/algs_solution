@@ -1,4 +1,6 @@
-public class exercise113 {
+package section1;
+
+public class e3 {
 	public static void main(String[] args) {
 		if (args.length != 3) {
 			return;

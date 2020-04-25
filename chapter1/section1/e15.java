@@ -1,4 +1,6 @@
-public class e1115 {
+package section1;
+
+public class e15 {
     public static void main(String[] args) {
         int[] a = {1, 2, 3, 4, 5, 6, 7, 4, 2, 1, 3, 5, 6, 1, 1, 1};
         int[] hist = histogram(a, 5);

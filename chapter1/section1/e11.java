@@ -1,4 +1,6 @@
-public class e1111 {
+package section1;
+
+public class e11 {
     public static void main(String[] args) {
         boolean[][] arr = new boolean[8][8];
         print2D(arr);
